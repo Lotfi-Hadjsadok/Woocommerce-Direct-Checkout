@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raysel Checkout\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-20 19:39+0000\n"
+"PO-Revision-Date: 2021-12-20 19:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: raysel-checkout"
+
+#: raysel-checkout.php:95
+msgid "Activate"
+msgstr ""
+
+#: inc/checkout-form.php:37
+msgid "address"
+msgstr "العنوان"
+
+#: raysel-checkout.php:123
+msgid "Call Button Number"
+msgstr ""
+
+#. Description of the plugin
+msgid "Checkout on product page"
+msgstr ""
+
+#: inc/checkout-form.php:31
+msgid "City"
+msgstr "البلدية"
+
+#: raysel-checkout.php:119
+msgid "Email for orders"
+msgstr ""
+
+#: raysel-checkout.php:99
+msgid "First Content"
+msgstr ""
+
+#: raysel-checkout.php:103
+msgid "First Content Color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.facebook.com/lotfihadjsadok.dev"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lotfi Hadjsadok"
+msgstr ""
+
+#: inc/checkout-form.php:11
+msgid "Name"
+msgstr "الاسم"
+
+#: inc/checkout-form.php:18
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: inc/checkout-form.php:43
+msgid "Quantity"
+msgstr "الكمية"
+
+#. Name of the plugin
+msgid "Raysel Checkout"
+msgstr ""
+
+#: raysel-checkout.php:107
+msgid "Second Content"
+msgstr ""
+
+#: raysel-checkout.php:111
+msgid "Second Content Color"
+msgstr ""
+
+#: raysel-checkout.php:131
+msgid "Settings"
+msgstr ""
+
+#: inc/checkout-form.php:26
+msgid "State"
+msgstr "الولاية"
+
+#: raysel-checkout.php:127
+msgid "Submit Button Color"
+msgstr ""
+
+#: raysel-checkout.php:115
+msgid "Submit button text"
+msgstr ""
+
+#: raysel-checkout.php:180
+msgid "You must activate Woocommerce"
+msgstr ""
